@@ -125,20 +125,6 @@ Key Fields:
 
 ---
 
-## Business Recommendations
-- Improve checkout experience
-- Implement cart recovery campaigns
-- Focus on high-performing categories
-- Increase retention through personalized marketing
-- Optimize product pages to improve conversions
-
----
-
-## Dashboard Preview
-(Add Power BI dashboard screenshot here)
-
----
-
 ## Skills Demonstrated
 - SQL
 - Data Cleaning
